@@ -1,6 +1,0 @@
-# share
-
-## Subfolders
-
-- [man](man)
-

@@ -1,9 +1,5 @@
 # Code
 
-## Subfolders
-
-- [virt](virt)
-
 ## Files
 
 - [Exp7.py](Exp7.py)
